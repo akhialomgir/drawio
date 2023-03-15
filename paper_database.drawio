@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T11:46:29.344Z" agent="5.0 (Windows)" etag="mBVdbxlK_lQEXnDNveNi" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T09:41:32.897Z" agent="5.0 (Windows)" etag="uoGG0gJfhycbwxxncJMO" version="21.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="882" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
             <mxPoint x="520" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xw-gvMlDoJP5l3MROJ4Y-10" value="&lt;div align=&quot;left&quot;&gt;&amp;nbsp;Exclusion criteria:&lt;br&gt;&amp;nbsp;- Patients with no tumor found&lt;br&gt;&amp;nbsp;- Patients with unknown survival time recode&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Xw-gvMlDoJP5l3MROJ4Y-10" value="&lt;div align=&quot;left&quot;&gt;&amp;nbsp;Exclusion criteria:&lt;br&gt;&amp;nbsp;- Patients with no tumor found&lt;br&gt;&amp;nbsp;- Patients with unknown survival time recode&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Patients from 2004 to 2015&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="300" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xw-gvMlDoJP5l3MROJ4Y-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Xw-gvMlDoJP5l3MROJ4Y-10">
