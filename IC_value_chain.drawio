@@ -1,14 +1,38 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="882" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="490" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Zn8wyA_PSWBel0TrAcym-1" value="R&amp;amp;D of 3680 battery" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zn8wyA_PSWBel0TrAcym-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="Zn8wyA_PSWBel0TrAcym-1" target="Zn8wyA_PSWBel0TrAcym-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zn8wyA_PSWBel0TrAcym-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="Zn8wyA_PSWBel0TrAcym-1" target="Zn8wyA_PSWBel0TrAcym-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zn8wyA_PSWBel0TrAcym-1" value="Battery Innovation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zn8wyA_PSWBel0TrAcym-3" value="Value Creation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="50" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zn8wyA_PSWBel0TrAcym-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="Zn8wyA_PSWBel0TrAcym-4" target="Zn8wyA_PSWBel0TrAcym-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zn8wyA_PSWBel0TrAcym-4" value="R&amp;amp;D of 4680 battery" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zn8wyA_PSWBel0TrAcym-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="Zn8wyA_PSWBel0TrAcym-7" target="Zn8wyA_PSWBel0TrAcym-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zn8wyA_PSWBel0TrAcym-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Should this innovation be protected?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zn8wyA_PSWBel0TrAcym-13" value="Obtain protection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="105" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zn8wyA_PSWBel0TrAcym-15" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="85" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
