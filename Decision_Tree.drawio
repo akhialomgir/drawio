@@ -22,7 +22,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MHQTFiA_iP4XrhlyBdrr-5" value="Fail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="340" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MHQTFiA_iP4XrhlyBdrr-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="320" as="sourcePoint" />
+            <mxPoint x="550" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHQTFiA_iP4XrhlyBdrr-7" value="5,000 ≤ Cost &amp;lt;7,000" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MHQTFiA_iP4XrhlyBdrr-6">
+          <mxGeometry x="0.24" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHQTFiA_iP4XrhlyBdrr-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="370" as="sourcePoint" />
+            <mxPoint x="630" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MHQTFiA_iP4XrhlyBdrr-9" value="Cost&amp;lt;5,000" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MHQTFiA_iP4XrhlyBdrr-8">
+          <mxGeometry x="0.2" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
