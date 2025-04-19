@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RsQZ0dQxCWgLAMhDrxQS-1" value="&lt;p&gt;competitiveness&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RsQZ0dQxCWgLAMhDrxQS-1" value="&lt;p&gt;&lt;b&gt;Competitiveness&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="290" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RsQZ0dQxCWgLAMhDrxQS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RsQZ0dQxCWgLAMhDrxQS-2" target="RsQZ0dQxCWgLAMhDrxQS-1">
@@ -19,15 +19,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RsQZ0dQxCWgLAMhDrxQS-3" value="&lt;p&gt;New entrant threat&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="350" width="200" height="200" as="geometry" />
+          <mxGeometry x="120" y="350" width="210" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="RsQZ0dQxCWgLAMhDrxQS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RsQZ0dQxCWgLAMhDrxQS-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="320" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="RsQZ0dQxCWgLAMhDrxQS-16" value="&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 60%;&quot;&gt;&lt;ul style=&quot;line-height: 100%;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-weight: normal; font-size: 14px; line-height: 100%;&quot;&gt;Emerging tech universities&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-weight: normal; font-size: 14px; line-height: 100%;&quot;&gt;Internal incubators of tech giants&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-weight: normal; font-size: 14px; line-height: 100%;&quot;&gt;VC-led incubation platforms&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="RsQZ0dQxCWgLAMhDrxQS-3">
+          <mxGeometry x="-10" y="20" width="220" height="180" as="geometry" />
         </mxCell>
         <mxCell id="RsQZ0dQxCWgLAMhDrxQS-4" value="&lt;p&gt;Threat of substitutes&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="350" width="200" height="200" as="geometry" />
+          <mxGeometry x="400" y="350" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RsQZ0dQxCWgLAMhDrxQS-22" value="&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 60%;&quot;&gt;&lt;ul style=&quot;line-height: 100%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Open Source Community Collaboration&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Direct Acquisition of Research Teams by Companies&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Crowdfunded R&amp;amp;D&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="RsQZ0dQxCWgLAMhDrxQS-4">
+          <mxGeometry x="-10" y="10" width="260" height="200" as="geometry" />
         </mxCell>
         <mxCell id="RsQZ0dQxCWgLAMhDrxQS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RsQZ0dQxCWgLAMhDrxQS-5" target="RsQZ0dQxCWgLAMhDrxQS-1">
           <mxGeometry relative="1" as="geometry" />
