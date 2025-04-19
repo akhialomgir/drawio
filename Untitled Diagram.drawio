@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="O9Hl_2FRSMyZNs6ewNzj">
-    <mxGraphModel dx="876" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1251" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RsQZ0dQxCWgLAMhDrxQS-2" value="&lt;p&gt;Supplier bargaining&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="200" height="200" as="geometry" />
+          <mxGeometry x="120" y="120" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="RsQZ0dQxCWgLAMhDrxQS-23" value="&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 60%;&quot;&gt;&lt;ul style=&quot;line-height: 100%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Research talent poached&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Equipment/materials out of supply&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="RsQZ0dQxCWgLAMhDrxQS-2">
           <mxGeometry x="-20" y="10" width="220" height="180" as="geometry" />
@@ -27,6 +27,11 @@
         <mxCell id="RsQZ0dQxCWgLAMhDrxQS-16" value="&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 60%;&quot;&gt;&lt;ul style=&quot;line-height: 100%;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-weight: normal; font-size: 14px; line-height: 100%;&quot;&gt;Emerging tech universities&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-weight: normal; font-size: 14px; line-height: 100%;&quot;&gt;Internal incubators of tech giants&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-weight: normal; font-size: 14px; line-height: 100%;&quot;&gt;VC-led incubation platforms&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="RsQZ0dQxCWgLAMhDrxQS-3">
           <mxGeometry x="-10" y="20" width="220" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="RsQZ0dQxCWgLAMhDrxQS-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RsQZ0dQxCWgLAMhDrxQS-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RsQZ0dQxCWgLAMhDrxQS-4" value="&lt;p&gt;Threat of substitutes&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="350" width="240" height="190" as="geometry" />
         </mxCell>
@@ -37,7 +42,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RsQZ0dQxCWgLAMhDrxQS-5" value="&lt;p&gt;Buyer bargaining&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="200" height="200" as="geometry" />
+          <mxGeometry x="400" y="120" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RsQZ0dQxCWgLAMhDrxQS-24" value="&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 60%;&quot;&gt;&lt;ul style=&quot;line-height: 100%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Dependence on incubation resources&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Stronger bargaining power&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Exclusive technology licenses&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="RsQZ0dQxCWgLAMhDrxQS-5">
+          <mxGeometry x="-10" y="10" width="230" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
