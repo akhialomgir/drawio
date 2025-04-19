@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="O9Hl_2FRSMyZNs6ewNzj">
-    <mxGraphModel>
+    <mxGraphModel dx="876" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RsQZ0dQxCWgLAMhDrxQS-1" value="&lt;p&gt;competitiveness&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RsQZ0dQxCWgLAMhDrxQS-2" value="&lt;p&gt;Supplier bargaining&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RsQZ0dQxCWgLAMhDrxQS-3" value="&lt;p&gt;New entrant threat&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RsQZ0dQxCWgLAMhDrxQS-4" value="&lt;p&gt;Threat of substitutes&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RsQZ0dQxCWgLAMhDrxQS-5" value="&lt;p&gt;Buyer bargaining&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
