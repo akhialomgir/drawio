@@ -13,6 +13,9 @@
         <mxCell id="RsQZ0dQxCWgLAMhDrxQS-2" value="&lt;p&gt;Supplier bargaining&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="80" width="200" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="RsQZ0dQxCWgLAMhDrxQS-23" value="&lt;div style=&quot;line-height: 60%;&quot;&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 60%;&quot;&gt;&lt;ul style=&quot;line-height: 100%;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Research talent poached&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Equipment/materials out of supply&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/h1&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="RsQZ0dQxCWgLAMhDrxQS-2">
+          <mxGeometry x="-20" y="10" width="220" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="RsQZ0dQxCWgLAMhDrxQS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RsQZ0dQxCWgLAMhDrxQS-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="320" as="targetPoint" />
